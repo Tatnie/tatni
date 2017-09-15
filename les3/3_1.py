@@ -1,1 +1,4 @@
-#placeholder voor opdracht 3.1 alvast, als voorbeeld aangemaakt.
+if punten > 14:
+    print('gefeliciteerd je bent geslaagd')
+
+dan hoort die niet meer bij je eerste statement.
