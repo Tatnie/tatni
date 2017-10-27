@@ -1,0 +1,1 @@
+keuze=int(input('geef een keuze:'))
